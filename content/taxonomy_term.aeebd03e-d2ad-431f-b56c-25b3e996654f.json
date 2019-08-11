@@ -1,0 +1,62 @@
+{
+    "uuid": [
+        {
+            "value": "aeebd03e-d2ad-431f-b56c-25b3e996654f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "recipe_category",
+            "target_type": "taxonomy_vocabulary",
+            "target_uuid": "668ace68-40c1-414c-b8ee-ad7bb05cf5b2"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "name": [
+        {
+            "value": "Snack"
+        }
+    ],
+    "description": [
+        {
+            "value": null,
+            "format": null
+        }
+    ],
+    "weight": [
+        {
+            "value": 0
+        }
+    ],
+    "parent": [
+        {
+            "target_id": null
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-08-11T02:27:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/recipe-category\/snack",
+            "langcode": "en"
+        }
+    ]
+}

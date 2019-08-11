@@ -1,0 +1,41 @@
+{
+    "uuid": [
+        {
+            "value": "27a28ee5-bfd0-4403-8ce9-84380b076e60"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "shortcut_set": [
+        {
+            "target_id": "default",
+            "target_type": "shortcut_set",
+            "target_uuid": "58a1d312-2e0f-4cde-ae4d-cbaaa1fbbe07"
+        }
+    ],
+    "title": [
+        {
+            "value": "Add content"
+        }
+    ],
+    "weight": [
+        {
+            "value": -20
+        }
+    ],
+    "link": [
+        {
+            "uri": "internal:\/node\/add",
+            "title": null,
+            "options": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ]
+}

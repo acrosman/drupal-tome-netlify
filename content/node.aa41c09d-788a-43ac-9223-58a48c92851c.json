@@ -1,0 +1,169 @@
+{
+    "uuid": [
+        {
+            "value": "aa41c09d-788a-43ac-9223-58a48c92851c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "recipe",
+            "target_type": "node_type",
+            "target_uuid": "fd2bb15d-b8e3-4539-9b55-6db16e380c7a"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-08-11T02:27:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "6ba5544e-532f-4e41-8872-dd0929140585"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "title": [
+        {
+            "value": "Watercress soup"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "6ba5544e-532f-4e41-8872-dd0929140585"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-08-11T02:27:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-08-11T02:27:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "moderation_state": [
+        {
+            "value": "published"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/recipes\/watercress-soup",
+            "langcode": "en"
+        }
+    ],
+    "field_cooking_time": [
+        {
+            "value": 20
+        }
+    ],
+    "field_difficulty": [
+        {
+            "value": "easy"
+        }
+    ],
+    "field_image": [
+        {
+            "alt": "Watercress soup with a sprig of coriander as garnish in a white bowl with green trim.",
+            "title": null,
+            "width": 768,
+            "height": 512,
+            "target_type": "file",
+            "target_uuid": "5f286639-4e04-41e5-9fa0-3bab8fd90e75"
+        }
+    ],
+    "field_ingredients": [
+        {
+            "value": "3 bunches watercress"
+        },
+        {
+            "value": "3 potatoes"
+        },
+        {
+            "value": "3 onions"
+        },
+        {
+            "value": "2 leeks"
+        },
+        {
+            "value": "800ml stock"
+        },
+        {
+            "value": "5 tbsp cr\u00e8me fra\u00eeche"
+        }
+    ],
+    "field_number_of_servings": [
+        {
+            "value": 4
+        }
+    ],
+    "field_preparation_time": [
+        {
+            "value": 10
+        }
+    ],
+    "field_recipe_category": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6beabc0e-2470-48ba-9c84-6c3fd113594e"
+        }
+    ],
+    "field_recipe_instruction": [
+        {
+            "value": "<ol>\n  <li>Prepare the vegetables by peeling and chopping the potatoes, finely chopping the onions, leeks and garlic.<\/li>\n  <li>Heat a little oil in a pan and add the chopped vegetables, gently cooking them for about 5 minutes.<\/li>\n  <li>Add the vegetable stock to the same pan and turn up the heat until simmering, adding the watercress after about 10 minutes. Cook until all the vegetables are soft and easily mashed.<\/li>\n  <li>Liquidize the soup either with a hand blender or in a mixer, until smooth.<\/li>\n  <li>If the soup has cooled too much whilst being liquidized, stir in the cr\u00e8me fra\u00eeche and reheat before serving (otherwise serve straight away). Season to taste.<\/li>\n<\/ol>\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "A wonderfully simple and light soup, making the most of seasonal, local produce. ",
+            "format": "basic_html"
+        }
+    ],
+    "field_tags": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e236cadf-649c-476f-bf9d-d414dc4db121"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "cc28a0a2-147a-4fc6-bb20-2b4fb6dfafd3"
+        }
+    ]
+}

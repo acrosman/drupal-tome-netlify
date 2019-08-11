@@ -1,0 +1,98 @@
+{
+    "uuid": [
+        {
+            "value": "a421ace5-beab-468c-8b30-1035cd6bbc2f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "a41512c8-1934-4834-8bd8-47eace58503a"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-08-11T02:27:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "d36a9420-d05a-4321-a1bc-1921946dc0a7"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "title": [
+        {
+            "value": "About Umami"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "d36a9420-d05a-4321-a1bc-1921946dc0a7"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-08-11T02:27:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-08-11T02:27:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "moderation_state": [
+        {
+            "value": "published"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/about-umami",
+            "langcode": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Umami is a fictional food magazine that has been created to demonstrate how you might build a Drupal site using functionality provided 'out of the box'.<\/p><p>For more information visit <a href='https:\/\/www.drupal.org\/docs\/8\/umami-drupal-8-demonstration-installation-profile'>https:\/\/www.drupal.org\/docs\/8\/umami-drupal-8-demonstration-installation-profile<\/a>.<\/p>",
+            "format": "basic_html",
+            "summary": null
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "uuid": [
+        {
+            "value": "862263d3-a75f-4899-83c3-d05bfb2b1a8b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "tags",
+            "target_type": "taxonomy_vocabulary",
+            "target_uuid": "d568692e-5240-4187-b320-49f6fcee47ee"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "name": [
+        {
+            "value": "Party"
+        }
+    ],
+    "description": [
+        {
+            "value": null,
+            "format": null
+        }
+    ],
+    "weight": [
+        {
+            "value": 0
+        }
+    ],
+    "parent": [
+        {
+            "target_id": null
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-08-11T02:27:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/tags\/party",
+            "langcode": "en"
+        }
+    ]
+}

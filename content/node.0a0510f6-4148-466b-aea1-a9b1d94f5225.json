@@ -1,0 +1,163 @@
+{
+    "uuid": [
+        {
+            "value": "0a0510f6-4148-466b-aea1-a9b1d94f5225"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "recipe",
+            "target_type": "node_type",
+            "target_uuid": "fd2bb15d-b8e3-4539-9b55-6db16e380c7a"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-08-11T02:27:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "6ba5544e-532f-4e41-8872-dd0929140585"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "title": [
+        {
+            "value": "Vegan chocolate brownies"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "6ba5544e-532f-4e41-8872-dd0929140585"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-08-11T02:27:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-08-11T02:27:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "moderation_state": [
+        {
+            "value": "published"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/recipes\/vegan-chocolate-brownies",
+            "langcode": "en"
+        }
+    ],
+    "field_cooking_time": [
+        {
+            "value": 20
+        }
+    ],
+    "field_difficulty": [
+        {
+            "value": "medium"
+        }
+    ],
+    "field_image": [
+        {
+            "alt": "A white plate with a vegan chocolate brownie covered in dark vegan chocolate",
+            "title": null,
+            "width": 768,
+            "height": 511,
+            "target_type": "file",
+            "target_uuid": "9bcc01b2-3ff0-4edf-9526-1ce3a8575e4a"
+        }
+    ],
+    "field_ingredients": [
+        {
+            "value": "170g self-raising flour"
+        },
+        {
+            "value": " 3 tbsp cocoa powder"
+        },
+        {
+            "value": " 170g caster sugar"
+        },
+        {
+            "value": " 5 tbsp vegetable oil"
+        },
+        {
+            "value": " 1 tsp vanilla extract"
+        },
+        {
+            "value": " 1 pinch salt"
+        },
+        {
+            "value": " 230ml soy milk"
+        }
+    ],
+    "field_number_of_servings": [
+        {
+            "value": 8
+        }
+    ],
+    "field_preparation_time": [
+        {
+            "value": 20
+        }
+    ],
+    "field_recipe_category": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "aeebd03e-d2ad-431f-b56c-25b3e996654f"
+        }
+    ],
+    "field_recipe_instruction": [
+        {
+            "value": "<ol>\n  <li>Preheat the oven to 350\u00b0F\/180\u00b0C and grease an 8 inch cake tin.<\/li>\n  <li>Sift the flour and cocoa powder into a bowl and add the sugar and salt.<\/li>\n  <li>Add the oil, a little at time, mixing well to avoid lumps. Add the soy milk and vanilla extract and mix thoroughly.<\/li>\n  <li>Gently pour into the cake tin and spread out until even. Bake for about 15 minutes and check with a knife (the knife should come out clean when inserted into the brownies 2cm from the edge).<\/li>\n  <li>Allow to cool in the tin for a few minutes before cooling on a wire rack.<\/li>\n<\/ol>\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "These sumptuous brownies should be gooey on the inside and crisp on the outside. A perfect indulgence!",
+            "format": "basic_html"
+        }
+    ],
+    "field_tags": []
+}

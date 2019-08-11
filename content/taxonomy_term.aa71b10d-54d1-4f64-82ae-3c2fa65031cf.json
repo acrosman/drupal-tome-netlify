@@ -1,0 +1,62 @@
+{
+    "uuid": [
+        {
+            "value": "aa71b10d-54d1-4f64-82ae-3c2fa65031cf"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "tags",
+            "target_type": "taxonomy_vocabulary",
+            "target_uuid": "d568692e-5240-4187-b320-49f6fcee47ee"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "name": [
+        {
+            "value": "Herbs"
+        }
+    ],
+    "description": [
+        {
+            "value": null,
+            "format": null
+        }
+    ],
+    "weight": [
+        {
+            "value": 0
+        }
+    ],
+    "parent": [
+        {
+            "target_id": null
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-08-11T02:27:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/tags\/herbs",
+            "langcode": "en"
+        }
+    ]
+}

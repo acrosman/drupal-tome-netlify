@@ -1,0 +1,62 @@
+{
+    "uuid": [
+        {
+            "value": "4150d474-6bbb-46a0-b5d2-4799bcda0559"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "tags",
+            "target_type": "taxonomy_vocabulary",
+            "target_uuid": "d568692e-5240-4187-b320-49f6fcee47ee"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "name": [
+        {
+            "value": "Dessert"
+        }
+    ],
+    "description": [
+        {
+            "value": null,
+            "format": null
+        }
+    ],
+    "weight": [
+        {
+            "value": 0
+        }
+    ],
+    "parent": [
+        {
+            "target_id": null
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-08-11T02:27:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/tags\/dessert",
+            "langcode": "en"
+        }
+    ]
+}

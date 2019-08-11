@@ -1,0 +1,62 @@
+{
+    "uuid": [
+        {
+            "value": "85f39223-8d63-417d-b87c-f47517f5b960"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "recipe_category",
+            "target_type": "taxonomy_vocabulary",
+            "target_uuid": "668ace68-40c1-414c-b8ee-ad7bb05cf5b2"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "name": [
+        {
+            "value": "Accompaniment"
+        }
+    ],
+    "description": [
+        {
+            "value": null,
+            "format": null
+        }
+    ],
+    "weight": [
+        {
+            "value": 0
+        }
+    ],
+    "parent": [
+        {
+            "target_id": null
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-08-11T02:27:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/recipe-category\/accompaniment",
+            "langcode": "en"
+        }
+    ]
+}
