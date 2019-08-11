@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8d52d0daaffe4227d6211e30f3df73ea",
+    "content-hash": "d29d66591a69e69b00d4c4a492f49c95",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -1883,7 +1883,7 @@
             "version": "1.0.0-beta2",
             "source": {
                 "type": "git",
-                "url": "https://git.drupal.org/project/tome",
+                "url": "https://git.drupalcode.org/project/tome.git",
                 "reference": "8.x-1.0-beta2"
             },
             "dist": {
@@ -1967,6 +1967,53 @@
             "support": {
                 "source": "http://cgit.drupalcode.org/tome"
             }
+        },
+        {
+            "name": "drupal/tome_netlify",
+            "version": "dev-1.x",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupalcode.org/project/tome_netlify.git",
+                "reference": "3c089c586212da3d3c57a53bf7d3bc25be21c203"
+            },
+            "require": {
+                "drupal/core": "~8.0",
+                "drupal/tome": "^1.0-beta2 || 1.x-dev",
+                "drupal/tome_static": "*"
+            },
+            "require-dev": {
+                "drupal/redirect": "*"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "branch-alias": {
+                    "dev-1.x": "1.x-dev"
+                },
+                "drupal": {
+                    "version": "8.x-1.x-dev",
+                    "datestamp": "1549855380",
+                    "security-coverage": {
+                        "status": "not-covered",
+                        "message": "Dev releases are not covered by Drupal security advisories."
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0+"
+            ],
+            "authors": [
+                {
+                    "name": "samuel.mortenson",
+                    "homepage": "https://www.drupal.org/user/2582268"
+                }
+            ],
+            "description": "Provides integrations between Tome and Netlify.",
+            "homepage": "https://www.drupal.org/project/tome_netlify",
+            "support": {
+                "source": "https://git.drupalcode.org/project/tome_netlify"
+            },
+            "time": "2019-07-01T14:56:17+00:00"
         },
         {
             "name": "drupal/tome_static",
@@ -5083,7 +5130,8 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
-        "drupal-tome/tome_drush": 20
+        "drupal-tome/tome_drush": 20,
+        "drupal/tome_netlify": 20
     },
     "prefer-stable": true,
     "prefer-lowest": false,
