@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "19176301-3908-4422-b5dc-295a41319b2f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "1dd74185-215e-490d-a223-e02448676cb0"
+        }
+    ],
+    "workflow": [
+        {
+            "target_id": "editorial",
+            "target_type": "workflow",
+            "target_uuid": "1c124919-94fb-417a-914d-326b4725b29a"
+        }
+    ],
+    "moderation_state": [
+        {
+            "value": "published"
+        }
+    ],
+    "content_entity_type_id": [
+        {
+            "value": "node"
+        }
+    ],
+    "content_entity_id": [
+        {
+            "value": 17
+        }
+    ],
+    "content_entity_revision_id": [
+        {
+            "value": 18
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ]
+}

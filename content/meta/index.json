@@ -131,6 +131,7 @@
         "taxonomy_term.cc28a0a2-147a-4fc6-bb20-2b4fb6dfafd3"
     ],
     "node.a421ace5-beab-468c-8b30-1035cd6bbc2f": [
+        "user.6826f55b-572e-431c-8ee0-fd908b018df5",
         "user.d36a9420-d05a-4321-a1bc-1921946dc0a7"
     ],
     "shortcut.27a28ee5-bfd0-4403-8ce9-84380b076e60": [],
@@ -173,5 +174,8 @@
     "user.6ba5544e-532f-4e41-8872-dd0929140585": [],
     "user.95614886-f269-4c28-8cbc-22b36b56ff14": [],
     "user.cc8c6c21-e5ea-4e27-acc9-20a1db612763": [],
-    "user.d36a9420-d05a-4321-a1bc-1921946dc0a7": []
+    "user.d36a9420-d05a-4321-a1bc-1921946dc0a7": [],
+    "content_moderation_state.19176301-3908-4422-b5dc-295a41319b2f": [
+        "user.1dd74185-215e-490d-a223-e02448676cb0"
+    ]
 }

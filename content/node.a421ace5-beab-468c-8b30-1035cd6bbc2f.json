@@ -18,14 +18,14 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2019-08-11T02:27:40+00:00",
+            "value": "2019-08-12T22:41:38+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "revision_uid": [
         {
             "target_type": "user",
-            "target_uuid": "d36a9420-d05a-4321-a1bc-1921946dc0a7"
+            "target_uuid": "6826f55b-572e-431c-8ee0-fd908b018df5"
         }
     ],
     "revision_log": [],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-08-11T02:27:40+00:00",
+            "value": "2019-08-12T22:41:38+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -90,9 +90,9 @@
     ],
     "body": [
         {
-            "value": "<p>Umami is a fictional food magazine that has been created to demonstrate how you might build a Drupal site using functionality provided 'out of the box'.<\/p><p>For more information visit <a href='https:\/\/www.drupal.org\/docs\/8\/umami-drupal-8-demonstration-installation-profile'>https:\/\/www.drupal.org\/docs\/8\/umami-drupal-8-demonstration-installation-profile<\/a>.<\/p>",
+            "value": "<p>Umami is a fictional food magazine that has been created to demonstrate how you might build a Drupal site using functionality provided 'out of the box'.<\/p>\r\n\r\n<p>For more information visit <a href=\"https:\/\/www.drupal.org\/docs\/8\/umami-drupal-8-demonstration-installation-profile\">https:\/\/www.drupal.org\/docs\/8\/umami-drupal-8-demonstration-installation-profile<\/a>.<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>Hello this is new content.<\/p>\r\n",
             "format": "basic_html",
-            "summary": null
+            "summary": ""
         }
     ]
 }
